@@ -1,1 +1,1 @@
-test string
+This is the contents of the file
