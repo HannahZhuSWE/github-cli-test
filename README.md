@@ -1,1 +1,1 @@
-helloooooooooooooooooooooo
+From the azure function
